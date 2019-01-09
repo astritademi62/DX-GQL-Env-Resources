@@ -6,7 +6,9 @@ within this folder for your convenience
 Extract external-provider into main dir.
 
 From this directory and run command:
-  ./create-env.sh [DX-DirName] [Profile] 
+    
+    ./create-env.sh [DX-DirName] [Profile] 
+    
 'where [DX-DirName] can be whatever you want and [Profile] is the Profile ID of your tomcat'
 
 ------------------------
