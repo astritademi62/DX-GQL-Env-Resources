@@ -9,7 +9,7 @@ Extract external-provider into main dir.
 
 From this directory and run command:
        
-    chmod 755 create-env.sh
+    chmod 755 create-env.sh //only needs to be run once to make script executable
     
     ./create-env.sh [DX-DirName] [Profile] 
     
