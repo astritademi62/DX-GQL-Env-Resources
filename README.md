@@ -1,6 +1,7 @@
-##READ ME##
 
-# Build and deploy DX and GraphQL for SDL Development and Testing
+# DX-GQL-Env-Resources Readme
+
+## Build and deploy DX and GraphQL for SDL Development and Testing
 
 A copy of the required External Provider module and sitemap are contained 
 within this folder for your convenience
@@ -27,6 +28,3 @@ If you already have a DX module (on branch feature-BACKLOG-8990) already built a
 on your computer, copy/paste it into this folder and run the same process except [DX-DirName]
 should be the same as the name of your DX module. This will cut down the time for this process to
 around 1-2 minutes.
-
-# DX-GQL-Env-Resources
-
