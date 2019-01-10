@@ -6,6 +6,8 @@ within this folder for your convenience
 Extract external-provider into main dir.
 
 From this directory and run command:
+       
+    chmod 755 create-env.sh
     
     ./create-env.sh [DX-DirName] [Profile] 
     
